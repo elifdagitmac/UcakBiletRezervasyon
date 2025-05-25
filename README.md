@@ -1,8 +1,8 @@
-# Uçak Bilet Rezervasyon Uygulaması ✈️
+
 
 Bu proje, **Java** ile oluşturulmuş basit bir uçak bilet rezervasyon uygulamasıdır.
 
-## 📦 Sınıf Yapısı
+##  Sınıf Yapısı
 
 - **`Ucak` sınıfı**:  
   Uçağın modeli, seri numarası ve koltuk kapasitesi tanımlanır.
@@ -13,7 +13,7 @@ Bu proje, **Java** ile oluşturulmuş basit bir uçak bilet rezervasyon uygulama
 - **`Ucus` sınıfı**:  
   Uçuş saatleri tanımlanır.
 
-## 🔄 Uygulama Akışı
+##  Uygulama Akışı
 
 1. Kullanıcı uygulamayı başlatır.
 2. Tüm uçuşlar ekrana yazdırılır.
@@ -24,10 +24,7 @@ Bu proje, **Java** ile oluşturulmuş basit bir uçak bilet rezervasyon uygulama
    - Başarı mesajı ekrana yazdırılır.
    - Rezervasyon bilgileri `rezervasyonlar.csv` dosyasına kaydedilir.
 
-## 🛠 Kullanılan Teknolojiler
 
-- Java (Temel Sınıf Yapıları, Dosya İşlemleri)
-- CSV formatında veri kaydı
 
 ---
 
